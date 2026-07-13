@@ -4,13 +4,13 @@ An interactive **Sales Analytics Dashboard** built using **Microsoft Excel** to 
 
 ---
 
-##  Project Overview
+## 📱📱 Project Overview
 
 This project demonstrates how Microsoft Excel can be used as a powerful Business Intelligence (BI) tool to create interactive dashboards for sales analysis. It provides meaningful insights into sales trends, product performance, regional performance, and overall business metrics using advanced Excel features.
 
 ---
 
-## 🚀 Dashboard Preview
+## 🖥️ Dashboard Preview
 
 ### Main Dashboard
 
@@ -43,7 +43,7 @@ This project demonstrates how Microsoft Excel can be used as a powerful Business
 
 ---
 
-## 🛠️ Tools & Technologies
+## ✍🏻 Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -86,7 +86,7 @@ The dashboard helps answer business questions such as:
 
 ---
 
-## 📊 KPIs Included
+## 👉🏻 KPIs Included
 
 - ✅ Total Sales Amount
 - ✅ Total Sales Count
@@ -141,17 +141,17 @@ This dashboard can be used by:
 
 ---
 
-## 👨‍💻 Author
-
+## 👇🏻 Author
+<img src="Muninagaraju.png" width="100" align="left">
 **Gudiboyina Muninagaraju**
 
 📧 Email: gudiboyinamuninagaraju@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/muninagaraju-gudiboyina/
 
-💻 GitHub: https://github.com/YOUR-GITHUB
+💻 GitHub: https://github.com/muninagaraju
 
-🌐 Portfolio: https://YOUR-PORTFOLIO
+🌐 Portfolio: https://muninagaraju-portfolio-forge.lovable.app/index.html#home
 
 ---
 
