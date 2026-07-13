@@ -1,10 +1,10 @@
-# 📊 Excel Sales Analytics Dashboard
-![Thumbnail](Image Jul 13, 2026, 04_15_47 PM.png)
+# 📉 Excel Sales Analytics Dashboard
+![Thumbnail](Thumbnail.png)
 An interactive **Sales Analytics Dashboard** built using **Microsoft Excel** to analyze sales performance across products, locations, salespersons, and time periods. This dashboard enables users to explore business insights through dynamic filters, KPI cards, Pivot Tables, and Pivot Charts.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how Microsoft Excel can be used as a powerful Business Intelligence (BI) tool to create interactive dashboards for sales analysis. It provides meaningful insights into sales trends, product performance, regional performance, and overall business metrics using advanced Excel features.
 
